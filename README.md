@@ -6,3 +6,5 @@
 
 
 1:20pm | Finally making some progress here. Added constants for masterProductList, and exported that and TYPES out through the index module. 
+
+2:13 | Chipping away on a new branch in my capstone. Working on selcting a product and opening model with correct data
