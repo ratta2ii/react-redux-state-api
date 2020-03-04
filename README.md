@@ -8,3 +8,5 @@
 1:20pm | Finally making some progress here. Added constants for masterProductList, and exported that and TYPES out through the index module. 
 
 2:13 | Chipping away on a new branch in my capstone. Working on selcting a product and opening model with correct data
+
+3:05 | Still trucking away. I have spent the entire day trying to piece together this concept of capturing the click event and updating the state on the selected item. I am going to have to make myself a lesson with just state on a single item to see how this works. 
