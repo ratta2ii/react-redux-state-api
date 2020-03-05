@@ -25,3 +25,5 @@
 11:44 | Styling modal in capstone
 
 1:00pm | Working on capstone modal still. Focused on how to display the correct image when someone clicks on a product.
+
+2:30pm | Working on modals. Have additional commits in other repo
