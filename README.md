@@ -27,3 +27,5 @@
 1:00pm | Working on capstone modal still. Focused on how to display the correct image when someone clicks on a product.
 
 2:30pm | Working on modals. Have additional commits in other repo
+
+3:30 | Working on trying to implemet unknown props populating the modal
