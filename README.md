@@ -23,3 +23,5 @@
 10:30am | Creating a modal component to display all product details and cart option. 
 
 11:44 | Styling modal in capstone
+
+1:00pm | Working on capstone modal still. Focused on how to display the correct image when someone clicks on a product.
