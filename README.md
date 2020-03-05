@@ -19,3 +19,5 @@
 # Thursday
 
 9:12am | Exploring some different concepts on buidling a Modal with images. I will spend the next couple hours watching a couple videos, and reading some articles on how to actually get this done. Will probably look up a couple premade components as well, although, I have done all styling with standard CSS so far, so I might just do that throughout as a way to understand how things work for future projects. 
+
+10:30am | Creating a modal component to display all product details and cart option. 
