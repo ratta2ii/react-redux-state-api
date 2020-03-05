@@ -10,3 +10,5 @@
 2:13 | Chipping away on a new branch in my capstone. Working on selcting a product and opening model with correct data
 
 3:05 | Still trucking away. I have spent the entire day trying to piece together this concept of capturing the click event and updating the state on the selected item. I am going to have to make myself a lesson with just state on a single item to see how this works. 
+
+4:05 |  checkin in again | Can't figure out if i even need state. Will see if i can talk to someone on the phone tomorrow
