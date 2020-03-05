@@ -14,3 +14,8 @@
 4:05 |  checkin in again | Can't figure out if i even need state. Will see if i can talk to someone on the phone tomorrow
 
 5:00 pm | I emailed you a bit ago as well, so I will keep this brief. I will have additional commits in capstone because I am making a little bit of progress now. Finally!!!
+
+
+# Thursday
+
+9:12am | Exploring some different concepts on buidling a Modal with images. I will spend the next couple hours watching a couple videos, and reading some articles on how to actually get this done. Will probably look up a couple premade components as well, although, I have done all styling with standard CSS so far, so I might just do that throughout as a way to understand how things work for future projects. 
