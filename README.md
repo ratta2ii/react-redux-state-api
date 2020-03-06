@@ -42,3 +42,5 @@ This repo is merely a means to check in for attendance purposes. The notes are j
 10:15am | Building a AbouUs component in capstone
 
 12:30pm | Styling about us. Making repsonsive
+
+1:45pm | Styling away. Learning better ways to make this reposnisve
