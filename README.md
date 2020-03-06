@@ -35,3 +35,6 @@ This repo is merely a means to check in for attendance purposes. The notes are j
 4:15 | Looks like this took a turn for the worst. Some products have all kinds of information that others don't have. This will make it difficult to have a single model, and how to populate it with all of the extra information. Perhaps creating an array of strings, and looping through it and displaying a list item for each.
 
 6:38 | Still going. Going to cook and make dinner now.    
+
+
+9:00 | started morning with a kirupa video. Planned to work more on capstone. Guess I better look at Friday project too.  
