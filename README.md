@@ -38,3 +38,5 @@ This repo is merely a means to check in for attendance purposes. The notes are j
 
 
 9:00 | started morning with a kirupa video. Planned to work more on capstone. Guess I better look at Friday project too.  
+
+10:15am | Building a AbouUs component in capstone
