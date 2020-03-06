@@ -46,3 +46,6 @@ This repo is merely a means to check in for attendance purposes. The notes are j
 1:45pm | Styling away. Learning better ways to make this reposnisve
 
 2:35 | 8 media queries later and it looks about complete. Lol. Not surer how normal this is.
+
+
+3:30pm | About finsihed. will commit in other repo too.
