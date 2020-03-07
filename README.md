@@ -49,3 +49,5 @@ This repo is merely a means to check in for attendance purposes. The notes are j
 
 
 3:30pm | About finsihed. will commit in other repo too.
+
+4:45pm Friday | Turning in project now. Have some commits in there as well. I wrote an explanation about reason to commit in here today. Sounds like you mentioned a few solutions, so I will try to work on branch this weekend. 
